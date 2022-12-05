@@ -11,7 +11,7 @@
 <br/>
 
 #### ⚙️ Main skills
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/AppStore-0D96F6?style=flat-square&logo=AppStore&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/AppStore-0D96F6?style=flat-square&logo=AppStore&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 
 #### ⚙️ Sub skills
