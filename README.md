@@ -19,10 +19,3 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
   
 <br/>
-
-### 🧐 Baekjoon Solved Rank
-<!-- ![Najin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasneyland&show_icons=true&theme=dark) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasneyland&layout=compact&theme=dark) -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skwls2087)](https://solved.ac/skwls2087)
-  
-</div>
