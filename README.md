@@ -3,7 +3,8 @@
 👋 안녕하세요!<br/><br/>
 
 저는 swift 언어로 **iOS 개발**을 하는 **네이티브 앱 개발자** 입니다.<br/>
-가끔 디자인과 Android 개발, 백엔드 구축도 합니다.<br/>
+Android 와 Flutter 기반 앱개발도 가능합니다. <br/>
+가끔 디자인과 백엔드 구축도 합니다.<br/>
 
 저는 도전하는 것을 좋아하며, 한계를 넘는 것에 희열을 느낍니다.<br/>
 언제나 주어진 일에 최선을 다 하며 긍정 에너지를 뿜고 다닙니다.<br/>
@@ -12,7 +13,7 @@
 
 #### ⚙️ Main skills
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/AppStore-0D96F6?style=flat-square&logo=AppStore&logoColor=white"/> <br/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 
 #### ⚙️ Sub skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/> <br/>
